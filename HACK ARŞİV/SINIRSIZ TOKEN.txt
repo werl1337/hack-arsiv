@@ -1,0 +1,15 @@
+1 » Discord programı bilgisayarınızda açıksa kapatın.
+2 » Tarayıcınızın gizli sekmesinden https://discord.gg/developers bağlantısına gidin.
+3 » Karşınıza böyle bir ekran çıkacak, bir isim belirtin ve Devam Et butonuna tıklayın.
+1605472331023.png
+4 » Bir doğum günü belirttikten sonra hesabı sahiplenmemiz istenecek, böyle bir ekran gelecek karşımıza.
+1605472460143.png
+5 » Ardından https://gmailnator.com/ sitesine giriyoruz ve Go ! butonuna tıklıyoruz.
+1605472541140.png
+6 » E-posta’yı kopyalayın ve Hesabını sahiplen penceresine ekleyin, şifreyi kendiniz oluşturun.
+7 » Tekrar siteye dönüş yapın ve Reload butonuna basın.
+8 » Gelen e-posta’ya tıklayın, e-posta’nızı onaylayın.
+1605472685988.png
+9 » E-posta’nızı doğruladıktan sonra hesabınız kapanmayacaktır, tokeninizi alıp listenize ekleyebilirsiniz.
+
+werl#1337

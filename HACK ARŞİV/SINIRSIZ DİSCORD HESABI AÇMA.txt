@@ -1,0 +1,14 @@
+// 1 Mail kullanarak sınırsız discord hesabı açma
+
+https://mail.com.tr/ sitesine kayıt olun.
+
+Discord'dan hesap açma yerine gelip örneğin mailiniz sa123@mail.com.tr olsun
+
+İlk hesap açtıktan sonra aynı maille bi kere daha hesap açamazsınız fakat sa123+1@mail.com.tr şeklinde yaparak + kullanıyoruz
+
+Her hesap açımında +1 kısmını arttırın örneğin 2. hesapta iseniz sa123+2@mail.com.tr gibi.
+
+Eposta doğrulama mailiniz sa123+123123@mail.com.tr yazsanız bile sa123@mail.com.tr'ye gelecektir.
+
+İyi kullanımlar dilerim
+By : werl#1337

@@ -1,0 +1,33 @@
+1-) Öncelikle play store dan termux'u indirin
+
+2-) pkg install update
+pkg install upgrade
+sırasıyla bu komutları yazın
+
+3-) pkg install git ardından bu komutu yazın
+
+4-) pkg install pip ardından bunu yazın
+
+5-) pkg install python yazın ve indirin
+
+6-) Hepsini indirdikten sonra şu komutu yazın
+
+git clone https://github.com/Snekyy/bombila
+
+7-) Bunu indikten sonra şu komutları yazın
+
+cd bombila
+
+chmod 777 *
+
+pip install -r requirements.txt
+
+python bombila.py
+
+8) Önünüze gelen yere +90 yazın ve enter'a basın
+
+9-) Sonra 0 olmadan numarayı yazın ve enter'a basın
+
+10-) Ardından kaç saniye boyunca mesaj bombardımanına sokmak istiyosanız o sayıyı yazın
+
+werl#1337
